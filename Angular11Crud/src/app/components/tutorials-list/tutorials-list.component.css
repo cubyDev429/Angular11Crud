@@ -1,3 +1,4 @@
+@import "~bootstrap/dist/css/bootstrap.css";
 .list {
     text-align: left;
     max-width: 750px;
